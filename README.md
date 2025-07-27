@@ -1,5 +1,5 @@
 The below are the table specs in case ExampleHelper does not work and you have to load
-the files to stage and load the tables manually
+the files to stage and load the tables manually.  The data files are in the `data` directory.
 ```
 create or replace TABLE FEATURE_STORE_DATABASE.FEATURE_STORE_SCHEMA.AIRPORT_WEATHER_STATION (
 	AIRPORT_ZIP_CODE VARCHAR(16777216),
